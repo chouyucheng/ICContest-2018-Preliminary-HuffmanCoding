@@ -1,7 +1,4 @@
-# IC Design Contest
-
-## 2018 IC Design Contest Preliminary
-- Huffman Coding
+# 2018 IC Design Contest Preliminary - Huffman Coding
 
 ## Directory Tree - Main Folder & Files
 ![file_pic](img/file_pic.png) run_nc.sh -- Run function simulation<br>
