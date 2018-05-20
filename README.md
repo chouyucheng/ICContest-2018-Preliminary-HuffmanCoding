@@ -3,24 +3,29 @@
 ## 2018 IC Design Contest Preliminary
 - Huffman Coding
 
-## Module
-- `src/huffman.v` -- Main module.
-
-## Directory Tree
+## Directory Tree - Main Folder & Files
 ![dir_pic](img/dir_pic.png) dc -- Run Design Compiler<br>
-![dir_pic](img/dir_pic.png) doc -- Related documents<br>
-![dir_pic](img/dir_pic.png) img -- icon<br>
-![dir_pic](img/dir_pic.png) sim -- Run ncverilog<br>
-![dir_pic](img/dir_pic.png) src -- Source code<br>
->> `sim/pattern2.dat` -- Test pattern 2
-- `sim/pattern3.dat` -- Test pattern 3
-- `sim/pattern4.dat` -- Test pattern 4
-- `sim/golden1.dat` -- Golden 1
-- `sim/golden2.dat` -- Golden 2
-- `sim/golden3.dat` -- Golden 3
-- `sim/golden4.dat` -- Golden 4
+> ![file_pic](img/file_pic.png) .synopsys_dc.setup -- Set Design Compiler's parameter<br>
+![file_pic](img/file_pic.png) DC_syn.tcl -- Script for Design Compiler<br>
+![file_pic](img/file_pic.png) huffman.sdc -- Constraint file<br>
+![file_pic](img/file_pic.png) huffman_syn.v -- Netlist from Design Compiler<br>
 
-![dir_pic](img/dir_pic.png)
+![dir_pic](img/dir_pic.png) doc -- Related documents<br>
+> ![file_pic](img/file_pic.png) B_ICC2018_priliminary_grad_cell_based.pdf -- Problem Description<br>
+
+![dir_pic](img/dir_pic.png) sim -- Run ncverilog<br>
+> ![file_pic](img/file_pic.png) pre_sim.f -- Script for Function simulation<br>
+![file_pic](img/file_pic.png) post_sim.f -- Script for timing simulation<br>
+![file_pic](img/file_pic.png) pattern1.dat -- Test data 1<br>
+![file_pic](img/file_pic.png) pattern2.dat --Test data 2<br>
+![file_pic](img/file_pic.png) pattern3.dat --Test data 3<br>
+![file_pic](img/file_pic.png) golden1.dat -- Answer data 1<br>
+![file_pic](img/file_pic.png) golden2.dat -- Answer data 2<br>
+![file_pic](img/file_pic.png) golden3.dat -- Answer data 3<br>
+
+![dir_pic](img/dir_pic.png) src -- Source code<br>
+> ![file_pic](img/file_pic.png) huffman.v -- Main module<br>
+![file_pic](img/file_pic.png) tb.v -- Testfixture<br>
 
 ## AUTHORS
-[Yu-Tong Shen](https://github.com/yutongshen/)
+[Yu-Cheng Chou](https://github.com/chouyucheng/)
