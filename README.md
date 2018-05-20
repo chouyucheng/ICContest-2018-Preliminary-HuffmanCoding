@@ -4,7 +4,9 @@
 - Huffman Coding
 
 ## Directory Tree - Main Folder & Files
-![dir_pic](img/dir_pic.png) dc -- Run Design Compiler<br>
+![file_pic](img/file_pic.png) run_nc.sh -- Run function simulation<br>
+![file_pic](img/file_pic.png) run_nc_post.sh -- Run timing simulation<br>
+![dir_pic](img/dir_pic.png) dc -- Design Compiler Relate<br>
 > ![file_pic](img/file_pic.png) .synopsys_dc.setup -- Set Design Compiler's parameter<br>
 ![file_pic](img/file_pic.png) DC_syn.tcl -- Script for Design Compiler<br>
 ![file_pic](img/file_pic.png) huffman.sdc -- Constraint file<br>
@@ -13,8 +15,8 @@
 ![dir_pic](img/dir_pic.png) doc -- Related documents<br>
 > ![file_pic](img/file_pic.png) B_ICC2018_priliminary_grad_cell_based.pdf -- Problem Description<br>
 
-![dir_pic](img/dir_pic.png) sim -- Run ncverilog<br>
-> ![file_pic](img/file_pic.png) pre_sim.f -- Script for Function simulation<br>
+![dir_pic](img/dir_pic.png) sim --Ncverilog Relate<br>
+> ![file_pic](img/file_pic.png) pre_sim.f -- Script for function simulation<br>
 ![file_pic](img/file_pic.png) post_sim.f -- Script for timing simulation<br>
 ![file_pic](img/file_pic.png) pattern1.dat -- Test data 1<br>
 ![file_pic](img/file_pic.png) pattern2.dat --Test data 2<br>
