@@ -1,0 +1,61 @@
+ 
+****************************************
+Report : qor
+Design : huffman
+Version: D-2010.03-SP5
+Date   : Wed Apr  4 21:53:37 2018
+****************************************
+
+
+  Timing Path Group 'clk'
+  -----------------------------------
+  Levels of Logic:               6.00
+  Critical Path Length:          0.73
+  Critical Path Slack:           0.00
+  Critical Path Clk Period:      6.00
+  Total Negative Slack:          0.00
+  No. of Violating Paths:        0.00
+  Worst Hold Violation:          0.00
+  Total Hold Violation:          0.00
+  No. of Hold Violations:        0.00
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          9
+  Hierarchical Port Count:        162
+  Leaf Cell Count:               1206
+  Buf/Inv Cell Count:             222
+  CT Buf/Inv Cell Count:            0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:     9244.040375
+  Noncombinational Area: 10710.593937
+  Net Area:             160394.161804
+  -----------------------------------
+  Cell Area:             19954.634312
+  Design Area:          180348.796116
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:          1371
+  Nets With Violations:             0
+  -----------------------------------
+
+
+  Hostname: ideal125
+
+  Compile CPU Statistics
+  -----------------------------------
+  Resource Sharing:              0.07
+  Logic Optimization:            0.05
+  Mapping Optimization:          3.14
+  -----------------------------------
+  Overall Compile Time:          5.60
+
+1

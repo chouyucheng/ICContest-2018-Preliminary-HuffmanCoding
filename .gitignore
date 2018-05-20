@@ -1,0 +1,12 @@
+*.log*
+
+# from design compiler
+*.svf
+
+# from ncverilog
+INCA_libs/
+nWaveLog/
+*.X
+*.key
+*.conf
+*.rc
