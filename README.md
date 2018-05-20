@@ -7,7 +7,7 @@
 - `src/huffman.v` -- Main module.
 
 ## Test Bench
-- `sim/tb.v` -- Test banch program
+![dir_pic](img/dir_pic.png)`sim/tb.v` -- Test banch program
 - `sim/pattern1.dat` -- Test pattern 1
 - `sim/pattern2.dat` -- Test pattern 2
 - `sim/pattern3.dat` -- Test pattern 3
